@@ -28,9 +28,7 @@ This project is part of my **Full-Stack Development** course with IBM. It's a ha
 - **GitHub Pages** for deployment
 
 ## 📂 Project Structure
-
-```bash
-.
+```
 ├── public
 ├── src
 │   ├── components
@@ -40,9 +38,5 @@ This project is part of my **Full-Stack Development** course with IBM. It's a ha
 │   └── main.jsx
 ├── README.md
 └── package.json
+```
 
-# Clone the repository:
-git clone https://github.com/arslanr369/e-plantShopping.git
-
-# Contact
-For any questions or feedback, please reach out to me at arslanriaz785@gmail.com.
